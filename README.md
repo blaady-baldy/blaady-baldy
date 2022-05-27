@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**blaady-baldy/blaady-baldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I am Devansh Singh pursuing Computer Science Engineering from MAIT, Delhi.
 
 - 🔭 I’m currently working on ... https://github.com/blaady-baldy/learning-blockchain
 - 🌱 I’m currently learning ... Blockchain Development
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/devnsh/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fav Quote: ... Rest at the end, not in the middle.
--->
+
